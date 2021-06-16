@@ -5,7 +5,7 @@ creaded by https://github.com/divinity76 (https://stackoverflow.com/users/106700
 ```php
 <?php
   include_once('readsensors.php');
-  print_r(read_sensors);
+  print_r(read_sensors());
 ?>
 ```
 ```php
